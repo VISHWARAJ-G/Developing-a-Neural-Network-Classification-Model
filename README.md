@@ -42,9 +42,9 @@ Evaluate the trained model on test data using accuracy, confusion matrix, and cl
 
 ## PROGRAM
 
-### Name:
+### Name: Vishwaraj G
 
-### Register Number:
+### Register Number: 212223220125
 
 ```python
 class PeopleClassifier(nn.Module):
